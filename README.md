@@ -11,6 +11,9 @@ Library: https://math.nist.gov/MatrixMarket/mmio-c.html
 
 Dataset Info: http://networkrepository.com/bio-diseasome.php
 
+# Execution: ./a.out filename.mtx > Output.txt
+
+
 @inproceedings{nr,
      title={The Network Data Repository with Interactive Graph Analytics and Visualization},
      author={Ryan A. Rossi and Nesreen K. Ahmed},
