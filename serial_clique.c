@@ -158,7 +158,7 @@ int *maxclique(int *g,int n){
 		*(Q+i)=0;
 		*(Qmax+i)=0;
 	}
-	R[2]=0;
+	//R[2]=0;
 	//calculate intitial coloring of the graph
 	c=coloring(g,n,R);
 	Qmax=MaxClique_vc(g,n,c,R);
