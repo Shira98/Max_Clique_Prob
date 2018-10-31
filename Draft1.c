@@ -4,7 +4,7 @@
 #include "mmio.h"
 #include "mmio.c"
 #include<time.h>
-#include "func.c"
+#include "serial.c"
 #include<assert.h>
 
 void arralloc(int M, int N,int (**graph)[M][N]){
